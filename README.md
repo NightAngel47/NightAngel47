@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Steven, an Associate Programmer at Deep Silver Volition.
+I'm Steven, an Associate Programmer at Volition.
 
 - You can checkout my [Portfolio](https://stevendrovie.com)
 - Also, find me on [Twitter](https://twitter.com/sdrovie), [Itch.io](https://nightangel47.itch.io), and [Linkedin](https://www.linkedin.com/in/sdrovie)
